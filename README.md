@@ -15,7 +15,7 @@ A Pong Game made with Unity and C#
 # Game Information
 
 <blockquote> Game Information
-<h6> Windows > 10 <br> Version : 1.0 <br> Game Engine : Unity <br> Code : C# Unity <br> Unity version : 2021.3.9f1
+<h6> Windows > 10 <br> Version : 1.0 <br> Game Engine : Unity <br> Code : C# Unity <br> Unity version : 2021.3.15f1
 </blockquote> 
   
  # Creator Information
@@ -27,4 +27,4 @@ Discord: Farking#2483 <br>
 </blockquote>
   
  # Author: wesleyms5
- # Date:  09/14/2022
+ # Date:  12/09/2022
